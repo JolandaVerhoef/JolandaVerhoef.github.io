@@ -2611,7 +2611,7 @@ input, select, textarea {
 		}
 
 		#header h1 {
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(255, 255, 255, 0.7);
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
@@ -2629,7 +2629,7 @@ input, select, textarea {
 	}
 
 		#footer .icons a {
-			color: rgba(255, 255, 255, 0.4);
+			color: rgba(255, 255, 255, 0.7);
 		}
 
 	#footer .copyright {
@@ -3043,15 +3043,15 @@ input, select, textarea {
 		/* Footer */
 
 			#footer {
-				background-attachment: scroll;
-				background-color: #1f1815;
-				background-image: url("images/overlay.png"), url("../../images/bg.jpg");
-				background-position: top left,						bottom center;
-				background-repeat: repeat,							no-repeat;
-				background-size: auto,							cover;
-				bottom: auto;
-				left: auto;
-				padding: 4em 4em 6em 4em;
+				/* background-attachment: scroll; */
+				/* background-color: #1f1815; */
+				/* background-image: url("images/overlay.png"), url("../../images/bg.jpg"); */
+				/* background-position: top left,						bottom center; */
+				/* background-repeat: repeat,							no-repeat; */
+				/* background-size: auto,							cover; */
+				/* bottom: auto; */
+				/* left: auto; */
+				padding: 4em 4em 0em 4em;
 				position: relative;
 				text-align: center;
 				width: 100%;

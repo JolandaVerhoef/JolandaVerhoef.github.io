@@ -52,7 +52,7 @@
 
 	// Footer.
 		breakpoints.on('<=medium', function() {
-			$footer.insertAfter($main);
+			$footer.appendTo($header);
 		});
 
 		breakpoints.on('>medium', function() {
